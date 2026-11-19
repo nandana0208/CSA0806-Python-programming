@@ -1,0 +1,6 @@
+TASK 1 - REPAIRED MESS BILL REPORT
+Asha: 1250.50\nBala: 980.00\nDivya: 1100.25
+Total: 3330.75
+Rejected records:
+Line 3: '192311003,Charan,not-a-number' ([<class 'decimal.ConversionSyntax'>])
+Line 6: 'damaged,line' (expected 3 fields, found 2)

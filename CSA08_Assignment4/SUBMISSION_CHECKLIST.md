@@ -1,0 +1,7 @@
+- [ ] Add your name and register number to README.md.
+- [ ] Run every program yourself and review its output.
+- [ ] Check screenshots and generated report files.
+- [ ] Create CSA08-<RegisterNumber>-Assignment4 on GitHub.
+- [ ] Commit each task separately and add faculty access.
+- [ ] Add the GitHub URL to the report cover page.
+- [ ] Be ready to explain the code and tests in the viva.

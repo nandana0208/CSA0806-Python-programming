@@ -1,0 +1,6 @@
+192311001,Asha,1250.50
+192311002,Bala,980
+192311003,Charan,not-a-number
+192311004,Divya,1100.25
+
+damaged,line

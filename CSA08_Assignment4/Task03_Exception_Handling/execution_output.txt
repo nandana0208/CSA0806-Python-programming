@@ -1,0 +1,3 @@
+TASK 3 - EXCEPTION HANDLING
+Expected result: (0, 0, [(1, 'expected 3 fields, found 8')])
+Missing-file test: attendance file not found: /tmp/tmp24reryqx.csv.missing

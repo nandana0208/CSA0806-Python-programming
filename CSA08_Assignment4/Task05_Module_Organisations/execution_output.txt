@@ -1,0 +1,10 @@
+TASK 5 - FOUR MODULE ORGANISATIONS
+\n[A_one_script]\nAttendance: 90.0%
+Three consecutive absences: True
+\n[B_one_module]\nAttendance: 90.0%
+Three consecutive absences: True
+\n[C_three_modules]\nAttendance: 90.0%
+Three consecutive absences: True
+\n[D_package]\nAttendance: 90.0%
+Three consecutive absences: True
+\nPackage organisation separates reading, statistics and reporting.

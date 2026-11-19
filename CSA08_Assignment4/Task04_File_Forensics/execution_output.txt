@@ -1,0 +1,5 @@
+TASK 4 - FILE FORENSICS
+Faulty log: 'Book D'
+Could not process /tmp/tmpzbgvyguw/missing.txt: [Errno 2] No such file or directory: '/tmp/tmpzbgvyguw/missing.txt'
+Repaired log:
+Book A\nBook B\n\nBook C\n\nBook D\n\nError log: /tmp/tmpzbgvyguw/missing.txt: FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzbgvyguw/missing.txt'\n

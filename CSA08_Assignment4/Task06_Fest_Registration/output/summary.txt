@@ -1,0 +1,1 @@
+Unique registrations: 4\nDuplicates merged: 1\nRejected rows: 2\nMissing files: 0\nEvents: 4\n

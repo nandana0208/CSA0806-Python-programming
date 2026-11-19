@@ -1,0 +1,6 @@
+TASK 6 - COLLEGE FEST
+Accepted: 4
+Duplicates: 1
+Rejected: 2
+Missing Files: 0
+Output files: error_log.csv, event_dance.csv, event_drama.csv, event_music.csv, event_quiz.csv, master_list.csv, summary.txt
