@@ -1,0 +1,23 @@
+ALGORITHM: CALCULATE ONE MILK PAYMENT
+INPUT: FarmerID, Litres, Fat, SNF, Shift
+IF FarmerID is empty OR Litres <= 0 THEN
+    DISPLAY "Invalid farmer or quantity"
+    STOP current entry
+END IF
+IF Fat < 2.0 OR Fat > 7.0 THEN
+    DISPLAY "Invalid fat percentage"
+    STOP current entry
+END IF
+FatSteps <- nearest whole number of (Fat - 3.5) / 0.1
+SNFSteps <- nearest whole number of (SNF - 8.5) / 0.1
+Rate <- 30.00 + FatSteps * 0.40 + SNFSteps * 0.30
+Amount <- round Litres * Rate to nearest paisa
+RETURN Amount
+
+ALGORITHM: TEN-DAY TOTAL
+Total <- 0.00
+FOR EACH valid collection entry
+    Amount <- CALCULATE ONE MILK PAYMENT
+    Total <- Total + Amount
+END FOR
+DISPLAY Total
